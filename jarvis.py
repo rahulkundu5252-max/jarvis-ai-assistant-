@@ -11,9 +11,6 @@ responses = [
     "Done"
 ]
 
-
-
-# =========================
 engine = pyttsx3.init()
 
 engine.setProperty('rate', 170)
