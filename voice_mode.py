@@ -35,7 +35,7 @@ def take_command():
         return ""
 
 
-# JARVIS STATE
+
 # =========================
 
 awake = False
