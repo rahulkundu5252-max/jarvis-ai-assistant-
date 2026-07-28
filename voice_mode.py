@@ -36,8 +36,6 @@ def take_command():
 
 
 
-# =========================
-
 awake = False
 
 speak("Say Jarvis to activate me")
