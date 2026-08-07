@@ -41,8 +41,6 @@ awake = False
 speak("Say Jarvis to activate me")
 
 
-# =========================
-
 while True:
 
     command = take_command()
