@@ -30,7 +30,7 @@ def speak(text):
     threading.Thread(target=run, daemon=True).start()
 
 
-# =========================
+
 # COMMAND PROCESSOR
 # =========================
 def process_command(command):
