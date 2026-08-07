@@ -41,7 +41,6 @@ awake = False
 speak("Say Jarvis to activate me")
 
 
-# MAIN LOOP
 # =========================
 
 while True:
