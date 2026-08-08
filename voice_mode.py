@@ -48,8 +48,6 @@ while True:
     if not command:
         continue
 
-   
-    # SLEEP MODE
     # =====================
 
     if not awake:
