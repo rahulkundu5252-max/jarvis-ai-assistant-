@@ -29,8 +29,6 @@ def speak(text):
 
     threading.Thread(target=run, daemon=True).start()
 
-
-# =========================
 def process_command(command):
 
     command = command.lower().strip()
