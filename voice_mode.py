@@ -48,8 +48,6 @@ while True:
     if not command:
         continue
 
-    # =====================
-
     if not awake:
 
         if "jarvis" in command:
