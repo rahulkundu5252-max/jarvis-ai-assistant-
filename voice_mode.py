@@ -56,7 +56,6 @@ while True:
 
             speak("Yes Rahul, I am listening")
 
-    # =====================
     # ACTIVE MODE
     # =====================
 
