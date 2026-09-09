@@ -70,7 +70,6 @@ while True:
 
             continue
 
-        # PROCESS COMMANDS
         else:
 
             process_command(command)
