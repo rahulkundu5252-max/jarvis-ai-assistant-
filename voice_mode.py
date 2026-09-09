@@ -56,8 +56,6 @@ while True:
 
             speak("Yes Rahul, I am listening")
 
-    # =====================
-
     else:
 
         # SLEEP COMMAND
