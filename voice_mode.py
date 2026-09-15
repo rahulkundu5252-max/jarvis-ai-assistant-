@@ -58,7 +58,6 @@ while True:
 
     else:
 
-        # SLEEP COMMAND
         if "sleep" in command:
 
             awake = False
