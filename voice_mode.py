@@ -64,7 +64,7 @@ while True:
 
             speak("Going to sleep")
 
-        # IGNORE REPEATED JARVIS
+        
         elif command == "jarvis":
 
             continue
